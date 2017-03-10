@@ -1,0 +1,5 @@
+Start Server: 
+run /escape/src/main/java/it/polimi/ingsw/cg_10/controller/server/StartServer.java
+
+Start Client:
+run /escape/src/main/java/it/polimi/ingsw/cg_10/controller/client/ClientMain.java
